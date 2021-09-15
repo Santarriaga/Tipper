@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tipper</string>
+    <string name="split">Split: </string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="gratuity">Gratuity</string>
+    <string name="round_up_tip">Round Up Tip</string>
+    <string name="tip_amount">Tip amount: %s</string>
+    <string name="total_bill">Total Bill: %s</string>
+    <string name="split_total">Split Total: %s</string>
+    <string name="minus_button_description">button to decrease split</string>
+    <string name="increase_button_description">button to increase split</string>
+    <string name="slider_description">percent you want to tip</string>
+    <string name="split_count">%s</string>
+    <string name="total">Total</string>
+</resources>
